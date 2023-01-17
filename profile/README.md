@@ -13,5 +13,5 @@
 
 ### 🙋‍♀️ About CEET351
 
-The title of this class is _Engineering Database Development_ - The __CET-351__ on Github is created in the Winter 2021 semester for a student project
+The title of this class is _Engineering Database Development_ - The __CET-351__ organization on Github was created in the Winter 2021 semester for a student project
 in the class.
